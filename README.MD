@@ -1,4 +1,4 @@
-This is a simple Implemenation linux of assembly for hello world in (x86_64 linux)
+This is a simple Implemenation assembly in linux for hello world in (x86_64 linux)
 
 1. install nasm if not installed
    sudo apt install nasm
